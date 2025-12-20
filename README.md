@@ -1,51 +1,39 @@
-# 👋 Hi, I'm Kelpejol
+## 👋 Hi, I'm Kelpejol
 
-I'm a blockchain developer focused on building scalable open-source tools and smart contract platforms 🚀
 
-Currently building **Terra-inspired decentralized infrastructure** — code, tests, docs, and everything public.
+I build infrastructure for AI agents.
 
----
+I am currently working on **Terra** — an AI agent control plane that provides:
+- observability into agent execution and reasoning
+- runtime control and governance
+- safety and policy enforcement
+- coordination for multi-agent systems
 
-## 🧠 What I Do
+AI agents today work in demos, but fail in production because:
+- there is no unified way to observe agent decisions
+- teams cannot enforce policies or human approvals
+- workflows across agents lack structure
+- state and decisions are not authoritative or replayable
 
-- 🛠 Building smart contracts with Foundry & Solidity  
-- 📈 Backend logic, testing, deployment tooling  
-- 📦 Open-source collaboration & community growth  
-- 📚 Learning blockchain security and DeFi
+**Terra** aims to solve these gaps by defining a new infrastructure layer between:
+agent frameworks → production systems.
 
----
+This profile reflects:
+- design docs and architectural exploration
+- early experiments and manifest concepts
+- foundational thinking about agent orchestration
 
-## 🔭 Featured Projects
+### Links
 
-### ⭐ Prime (NFT Marketplace)
-A modular, upgradeable NFT marketplace with auctions, direct listings, and offers.
-
-🔗 https://github.com/kelpejol/prime  
-📌 See README for setup & development instructions
-
----
-
-## 🚀 Skills
-
-**Languages:** Solidity, JavaScript/TypeScript, Rust *(if applicable)*  
-**Tools:** Foundry, Hardhat, GitHub Actions, The Graph, Algolia  
-**Concepts:** NFTs, DeFi primitives, blockchain security
+- X/Twitter: https://x.com/kelpejol  
+- Medium: https://medium.com/@kelpejol 
 
 ---
 
-## 📌 How to Contribute
+### Featured Work in Progress
 
-1. Browse open issues  
-2. Start with a `good first issue`  
-3. Fork → branch → PR  
-4. Tag discussion if you’re unsure
+🔹 **terra-core (WIP)** – foundational experiments for agent control plane  
+🔹 **agent-control-plane-notes** – design & architecture documents  
+🔹 **policy-aware-prompt-compression** – example technique for policy gating  
+🔹 **prompt-quality-gate** – demonstration of prompt validation logic
 
-Love working with other builders — feel free to reach out!
-
----
-
-## 📫 Let’s Connect
-
-📧 Email: your.email@example.com  
-🌐 Portfolio (if you have one)  
-💬 Twitter: @yourhandle  
