@@ -32,7 +32,7 @@ This profile reflects:
 
 ### Featured Work in Progress
 
-🔹 **terra-core (WIP)** – foundational experiments for agent control plane  
+🔹 **terra** – foundational experiments for agent control plane  
 🔹 **agent-control-plane-notes** – design & architecture documents  
 🔹 **policy-aware-prompt-compression** – example technique for policy gating  
 🔹 **prompt-quality-gate** – demonstration of prompt validation logic
