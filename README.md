@@ -69,8 +69,8 @@ This project reflects my approach: design systems starting from **failure modes,
 
 | Project | Description | Focus |
 |---------|-------------|-------|
-| **policy-aware-prompt-compression** | Prompt transformation with policy enforcement | Safety & cost control |
-| **prompt-quality-gate** | LLM output validation & drift detection | Reliability |
+| **prompt-compression-gateway** | Prompt transformation with policy enforcement | Safety & cost control |
+| **llm-output-stability-gate** | LLM output validation & drift detection | Reliability |
 | **eth-event-indexer** | Ethereum event indexing pipeline | Data correctness |
 | **onchain-action-guard** | Policy-enforced smart contract example | Constraints & safety |
 | **agent-control-plane-notes** | Design notes on orchestration systems | System design |
