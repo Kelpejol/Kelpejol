@@ -1,81 +1,90 @@
-# 👋 Hey, I’m **Kelpejol**
-### 👨‍💻 Software Engineer — AI Systems | Distributed Infrastructure | Web3 Data Pipelines
+# 👋 Hi, I’m Kelpejol
 
-🔥 I build **high-impact infrastructure and tooling** that bridges AI agents and real-world systems — focusing on production-grade governance, control, observability, and safety for intelligent software at scale.
+### Software Engineer — Distributed Systems | AI Infrastructure
 
----
-
-## 🚀 What I Do
-
-I’m deeply passionate about:
-- Designing and building **reliable AI agent infrastructure**  
-- Creating systems that enable **safe, observable, and policy-controlled LLM operations**  
-- Engineering **scalable data pipelines** bridging on-chain and off-chain systems
-
-My work spans multiple domains including Python, TypeScript, and Solidity — always with an eye on **performance, observability, and real-world adoption**.
+I build **infrastructure systems** with a focus on **control, reliability, observability, and correctness**.  
+My work centers on making complex, stateful systems — especially AI-driven ones — *operable* in the real world.
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Engineering Focus
 
-**Languages:** Python · TypeScript · JavaScript · Solidity · Go (sometimes)  
-**Systems:** Node.js · Docker · GitHub Actions  
-**AI Tooling:** Prompt engineering, quality gates, safety enforcement  
-**Web3:** Off-chain event indexing · smart contracts  
-**Tools:** VS Code · LLMs · CI/CD · Testing frameworks
+I care deeply about:
+- **Control planes and orchestration** for complex systems  
+- **Durable state, replayability, and auditability**  
+- **Operational safety**: retries, fallbacks, policies, and human intervention  
+- **Clear system boundaries and explicit tradeoffs**
 
----
-
-## 📈 Highlights & Impact
-
-✔️ Architected and implemented **policy-aware prompt gating and compression**  
-✔️ Built infrastructure for **LLM output quality detection and drift monitoring**  
-✔️ Prototype and experiment with **AI agent orchestration and control planes**  
-✔️ Demonstrated **on-chain to off-chain data pipeline tooling**
-
-LinkedIn / Resume available upon request — ask me for access.
+I tend to work close to the metal of system behavior: execution flow, failure modes, state transitions, and observability.
 
 ---
 
-## 🌟 Featured Projects
+## 🛠️ Technical Stack
 
-### 📌 **Terra — AI Agent Control Plane**
-> Foundational infrastructure for managing, observing, and governing multi-agent AI systems  
-- Agent orchestration & runtime governance  
-- Policy enforcement & human-approved decisioning  
-- Replayable state and audit logs  
-**Status:** Work-In-Progress (clearly documented)  
-🔗 *See repository for architectural overview and setup instructions*
+**Languages**
+- Python (primary)
+- TypeScript / JavaScript
+- Solidity
+- Go (working proficiency)
 
----
+**Systems & Tooling**
+- Node.js, Docker
+- CI/CD with GitHub Actions
+- Structured logging & tracing
+- API and workflow orchestration
 
-### 📍 Key Contributions
-
-| Project | What It Is | Language |
-|---------|-------------|----------|
-| **policy-aware-prompt-compression** | Policy-gated prompt transformation and cost control tooling | Python |
-| **prompt-quality-gate** | LLM output quality and drift detection framework | Python |
-| **eth-event-indexer** | Minimal Ethereum event indexer for on-chain → off-chain pipelines | JavaScript |
-| **onchain-action-guard** | Example smart contract enforcing policy constraints | Solidity |
-| **agent-control-plane-notes** | Architectural exploration of control plane design | Markdown |
+**Domains**
+- AI / LLM tooling and runtime controls  
+- Distributed execution & workflow systems  
+- On-chain → off-chain data pipelines  
 
 ---
 
-## 📘 What Sets My Work Apart
+## 📌 Current Core Project
 
-✅ **Architecture-first design** – focused on maintainability and observability  
-✅ **Safety & policy cognition** – engineered for governance and control  
-✅ **Cross-discipline expertise** – from LLM tooling to blockchain pipelines  
-✅ **Professional polish** — code quality, documentation, and reproducibility
+### **Terra — Agent & Tool Control Plane**
+
+Terra is a **decoupled control plane** for orchestrating and operating tools and agents.
+
+It focuses on problems that show up *after* agents exist:
+- Reliable execution
+- Durable run state
+- Retries, fallbacks, and recovery
+- Human-in-the-loop approvals
+- Full observability and deterministic replay
+
+**Engineering emphasis**
+- Explicit state modeling  
+- Append-only execution traces  
+- Runtime decision orchestration  
+- Policy-backed execution controls  
+
+This project reflects how I approach systems design: start from failure modes, operational needs, and observability — not just happy-path execution.
 
 ---
 
-## 📫 Connect With Me
+## 🧩 Other Notable Work
 
-👉 Twitter: https://x.com/kelpejol  
-👉 Medium: https://medium.com/@kelpejol  
+| Project | Description | Focus |
+|-------|-------------|-------|
+| **policy-aware-prompt-compression** | Prompt transformation with policy enforcement | Safety, cost control |
+| **prompt-quality-gate** | LLM output validation & drift detection | Reliability |
+| **eth-event-indexer** | Ethereum event indexing pipeline | Data correctness |
+| **onchain-action-guard** | Policy-enforced smart contract example | Constraints & safety |
+| **agent-control-plane-notes** | Design notes on orchestration systems | System design |
 
-📬 *Open to opportunities in backend-heavy, infrastructure-oriented, or AI systems roles.*
+These projects are intentionally scoped and experimental — they exist to explore specific system concerns rather than to be full products.
+
+---
+
+## 📐 How I Think About Systems
+
+- Prefer **explicit state** over implicit behavior  
+- Design for **debuggability before scale**  
+- Treat retries, failures, and human actions as first-class  
+- Avoid hidden magic — systems should be explainable under pressure  
+
+I value clarity over cleverness.
 
 ---
 
@@ -87,5 +96,13 @@ LinkedIn / Resume available upon request — ask me for access.
 
 ---
 
-> *“I build what others think they *can’t* build — systems engineered for scale, control, and production impact.”*
+## 📫 Contact
 
+- X / Twitter: https://x.com/kelpejol  
+- Writing: https://medium.com/@kelpejol  
+
+Open to conversations around **infrastructure-heavy engineering work**, system design, and difficult orchestration problems.
+
+---
+
+> *I enjoy working on the parts of systems that only matter once things start breaking.*
