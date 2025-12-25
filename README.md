@@ -93,7 +93,7 @@ Clarity always comes before cleverness.
 ## 📊 GitHub Snapshot
 
 ![Metrics](https://metrics.lecoq.io/kelpejol)  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kelpejol&theme=github-compact)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kelpejol&theme=github-compact)
 
 ---
 
