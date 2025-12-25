@@ -20,7 +20,7 @@ I care deeply about:
 ## 🛠️ Technical Stack
 
 **Languages**
-- Python (primary)
+- Python 
 - TypeScript / JavaScript
 - Solidity
 - Go (working proficiency)
