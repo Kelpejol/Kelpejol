@@ -42,30 +42,8 @@ I care deeply about:
 
 > *Tech stack includes some tools I am learning or experimenting with — demonstrating readiness for scalable, modern systems.*
 
----
 
-## 📌 Core Project
-
-### **Terra — Agent & Tool Control Plane**
-
-Terra is a **decoupled control plane** for orchestrating and operating tools and agents.  
-
-Focuses on real-world challenges post-agent creation:
-- Reliable execution & durable state
-- Retries, fallbacks, and deterministic recovery
-- Human-in-the-loop approvals
-- Full observability and auditability
-
-**Engineering emphasis**
-- Explicit state modeling & append-only execution traces  
-- Runtime decision orchestration  
-- Policy-backed execution controls  
-
-This project reflects my approach: design systems starting from **failure modes, operational needs, and observability**, not just the happy path.
-
----
-
-## 📌 Other Notable Work
+## 📌 Current Work
 
 | Project | Description | Focus |
 |---------|-------------|-------|
