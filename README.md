@@ -1,4 +1,4 @@
-n# 👋 Hi, I’m Kelpejol
+ 👋 Hi, I’m Kelpejol
 
 ### Software Engineer — Distributed Systems | AI Infrastructure | Blockchain Infrastructure
 
