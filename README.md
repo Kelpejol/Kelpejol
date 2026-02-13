@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Kelpejol
+n# 👋 Hi, I’m Kelpejol
 
 ### Software Engineer — Distributed Systems | AI Infrastructure | Blockchain Infrastructure
 
@@ -43,7 +43,7 @@ I care deeply about:
 > *Tech stack includes some tools I am learning or experimenting with — demonstrating readiness for scalable, modern systems.*
 
 
-## 📌 Current Work
+## 📌 Key Works
 
 | Project | Description | Focus |
 |---------|-------------|-------|
@@ -58,6 +58,16 @@ I care deeply about:
 These projects are experimental — designed to explore system concerns rather than serve as full products.
 
 ---
+
+## Currently Building
+
+**[Consonant](https://consonantlabs.xyz)** - Service mesh for AI agent orchestration
+- Prevents cascading failures in multi-agent systems
+- 40% cost reduction through intelligent resource allocation
+- Production-grade monitoring with distributed-tracing
+- Kubernetes-based deployment for enterprise AI workloads
+
+Solving the infrastructure challenges of deploying AI Agents at scale.
 
 ## 📐 How I Think About Systems
 
