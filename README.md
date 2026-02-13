@@ -52,6 +52,8 @@ I care deeply about:
 | **eth-event-indexer** | Ethereum event indexing pipeline | Data correctness |
 | **onchain-action-guard** | Policy-enforced smart contract example | Constraints & safety |
 | **agent-control-plane-notes** | Design notes on orchestration systems | System design |
+| **Beam** | AI Cost Enforcement | Cost control |
+
 
 These projects are experimental — designed to explore system concerns rather than serve as full products.
 
