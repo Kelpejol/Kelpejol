@@ -1,8 +1,8 @@
  👋 Hi, I’m Kelpejol
 
-### Software Engineer — Distributed Systems | AI Infrastructure | Blockchain Infrastructure
+### Software Engineer — AI Engineer | Distributed Systems 
 
-I design and build **infrastructure systems** with a focus on **control, reliability, observability, and operational correctness**.  
+I design and build **AI systems** with a focus on **control, reliability, observability, and operational correctness**.  
 My work centers on making complex, stateful systems — especially AI-driven ones — *operable in real-world environments*.
 
 ---
@@ -24,7 +24,6 @@ I care deeply about:
 - TypeScript / JavaScript
 - Solidity
 - Go (working proficiency)
-- Rust (familiarity, exploring for systems)
 
 **Frameworks & Tooling**
 - Node.js, FastAPI, Express.js
@@ -32,6 +31,7 @@ I care deeply about:
 - Docker, Kubernetes, Terraform
 - CI/CD: GitHub Actions, GitLab CI
 - Structured logging, tracing, monitoring (Prometheus, Grafana, Sentry)
+- Langchain, Vector DBs, RAG, Multimodal systems
 - Workflow orchestration: Prefect, Airflow
 - Blockchain: Hardhat, Foundry
 
@@ -61,7 +61,8 @@ These projects are experimental — designed to explore system concerns rather t
 
 ## Currently Building
 
-**[Consonant](https://consonantlabs.xyz)** - Service mesh for AI agent orchestration
+**[Consonant](https://consonantlabs.xyz)** - Service mesh for AI agent orchestration 
+*NVIDIA Inception Program*
 - Prevents cascading failures in multi-agent systems
 - 40% cost reduction through intelligent resource allocation
 - Production-grade monitoring with distributed-tracing
